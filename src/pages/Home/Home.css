@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  font-family: "montserrat", sans-serif, "arial";
+}
+
+h1 {
+  color: white;
+  font-size: 3rem;
+}
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 1rem;
+  }
+
+  .home {
+    margin: auto;
+  }
+
+  .banner_container {
+    margin-inline: 1.5rem;
+  }
+}
