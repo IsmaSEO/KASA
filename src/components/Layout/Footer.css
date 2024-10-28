@@ -1,0 +1,12 @@
+.footer {
+  background-color: black;
+  color: white;
+  padding: 5rem 0 5rem 0;
+  text-align: center;
+  height: 5rem;
+}
+
+.footer img {
+  width: 7rem;
+  height: 2.5rem;
+}

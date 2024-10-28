@@ -5,14 +5,19 @@ import "./Navbar.css";
 
 function Navbar() {
   return (
-    <header className="navbar">
-      <nav>
-        <ul>
-          <li>
-            <Link to="/">Accueil</Link>
+    <header className="site-header">
+      <nav className="site-nav">
+        <div className="site-logo">
+          <Link to="/">
+            <img src="/logoKasa.svg" alt="Logo Kasa" />
+          </Link>
+        </div>
+        <ul className="nav-list">
+          <li className="nav-item">
+            <Link to="/" className="nav-link">Accueil</Link>
           </li>
-          <li>
-            <Link to="/about">À propos</Link>
+          <li className="nav-item">
+            <Link to="/about" className="nav-link">À Propos</Link>
           </li>
         </ul>
       </nav>
