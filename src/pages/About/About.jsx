@@ -1,7 +1,7 @@
 // src/pages/About/About.jsx
 import React from "react";
-import Collapse from "../../components/About/Collapse";
 import Banner from "../../components/Home/Banner";
+import Collapse from "../../components/Shared/Collapse";
 import "./About.css";
 
 const aboutData = [

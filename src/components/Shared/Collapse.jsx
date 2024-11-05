@@ -1,4 +1,4 @@
-// src/components/About/Collapse.jsx
+// src/components/Shared/Collapse.jsx
 import React, { useState } from "react";
 import "./Collapse.css";
 
