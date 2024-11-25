@@ -1,0 +1,18 @@
+/* src/components/Logement/StarRating.css */
+.star-rating {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.fa {
+  font-size: 1.5rem;
+}
+
+.filled {
+  color: #ff6060;
+}
+
+.empty {
+  color: #e3e3e3;
+}
