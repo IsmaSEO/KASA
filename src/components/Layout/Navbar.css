@@ -37,6 +37,11 @@
   text-decoration: underline;
 }
 
+.nav-link.active {
+  text-decoration: underline;
+  color: black;
+}
+
 /* Responsive */
 @media screen and (max-width: 768px) {
   .site-header {
