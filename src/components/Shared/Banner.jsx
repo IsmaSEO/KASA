@@ -1,4 +1,4 @@
-// src/components/Home/Banner.jsx
+// src/components/Shared/Banner.jsx
 import React from "react";
 import "./Banner.css";
 

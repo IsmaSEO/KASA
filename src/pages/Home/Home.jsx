@@ -1,7 +1,7 @@
 // src/pages/Home/Home.jsx
 import React from "react";
-import Banner from "../../components/Home/Banner";
 import Logements from "../../components/Home/Logements";
+import Banner from "../../components/Shared/Banner";
 import "./Home.css";
 
 function Home() {

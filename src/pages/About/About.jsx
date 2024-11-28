@@ -1,6 +1,6 @@
 // src/pages/About/About.jsx
 import React from "react";
-import Banner from "../../components/Home/Banner";
+import Banner from "../../components/Shared/Banner";
 import Collapse from "../../components/Shared/Collapse";
 import "./About.css";
 
